@@ -8,6 +8,6 @@ public static void main(String args[])
 
 	System.out.println("This output from java program");
 	System.out.println(new Date());
-	Sysetm.out.println("new Changes");
+	Sysetm.out.println("new Changes 1");
 }
 }
